@@ -3,6 +3,10 @@ body {
     text-align: center;
     font-family: "Arial";
 }
+nav {
+    background-color: aqua;
+    color: #333;
+}
 p {
     color: blue;
     font-size: medium;
